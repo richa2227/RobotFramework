@@ -1,0 +1,18 @@
+#Registration page elements
+
+createEmail_txb="id:email_create"
+submit_btn = "id:SubmitCreate"
+firstName_txb = "id:customer_firstname"
+lastName_txb = "id:customer_lastname"
+email_txb = "id:email"
+pwd_txb ="id:passwd"
+addressFirstName_txb = "id:firstname"
+addressLastName_txb = "id:lastname"
+address_txb = "id:address1"
+city_txb = "id:city"
+state_dropDown = "id:id_state"
+postCode_txb = "id:postcode"
+country_dropDown = "id:id_country"
+mob_txb = "id:phone_mobile"
+registration_btn = "id:submitAccount"
+verificationText = "xpath://h1[text()='My account']"
